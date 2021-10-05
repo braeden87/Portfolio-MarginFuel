@@ -1,5 +1,24 @@
-# Portfolio-MarginFuel
-## Margin Fuel Add User Page
+# vue_crash_todolist
 
-I studied abroud in New Zealand and while I was there I had the oppurtunity to participate in an Internship with a company called Margin Fuel. 
-While there I worked on created an Add User page for the company's website. I had to learn how to use Vue.js and JavaScript to complete this.
+## Project setup
+```
+npm install
+```
+
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
+
+### Compiles and minifies for production
+```
+npm run build
+```
+
+### Lints and fixes files
+```
+npm run lint
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
