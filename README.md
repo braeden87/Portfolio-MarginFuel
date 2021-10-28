@@ -1,4 +1,4 @@
-# Margin Fuel Add User Page
+# MarginFuel Add User Page
 
 ## Skills Utilized
 - JavaScript
